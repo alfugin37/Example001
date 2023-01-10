@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.AssemblyInfo.cs
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\bin\Debug\net6.0\Example005_CondifElse.exe
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\bin\Debug\net6.0\Example005_CondifElse.deps.json
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\bin\Debug\net6.0\Example005_CondifElse.runtimeconfig.json
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\bin\Debug\net6.0\Example005_CondifElse.dll
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\bin\Debug\net6.0\Example005_CondifElse.pdb
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.dll
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\refint\Example005_CondifElse.dll
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.pdb
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\Example005_CondifElse.genruntimeconfig.cache
+C:\Users\Александр\Desktop\examples\Example005_CondifElse\obj\Debug\net6.0\ref\Example005_CondifElse.dll
